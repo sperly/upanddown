@@ -16,4 +16,5 @@ rotate the world/gravity to be able to continue the game in any direction.
 ##Upgrades:
 * Reinforsments - health, stamina, weapon damage, damage resistans
 * Mechsuit - gives size and strength, makes it possible to toss foes.
+* Mag-boots - makes it possible to walk on walls and ceilings, slows speed.
 * 
